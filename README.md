@@ -1,0 +1,2 @@
+# VerticalCoverFlow
+垂直的coverflow半透明层叠式布局
